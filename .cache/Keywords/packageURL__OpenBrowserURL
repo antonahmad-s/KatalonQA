@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "256200A2772EA04F105FB099697DC45B",
+  "keywordClasses": [
+    {
+      "name": "packageURL.OpenBrowserURL",
+      "keywordMethods": [
+        {
+          "name": "openBrowserFromExcel",
+          "parameters": [
+            {
+              "name": "testDataPath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
